@@ -35,7 +35,7 @@ const Header = () => {
 
 
         {/* Top left logo */}
-          <a href="/#" className={"nav-logo"} id="whiter">Amin Riyad</a>
+          <a href="/#" className={"nav-logo"} id="whiter">David Fox</a>
         {/* Top left logo */}
 
 

@@ -14,7 +14,7 @@ const Main = () => {
               <Icon icon="uil:linkedin-alt" color="#5757e0" />
               </a> */}
               <a
-                href="https://github.com/Aminriyad"
+                href="https://github.com/DavidFoxCode"
                 target="_blank"
                 rel="noreferrer"
                 className={"social-icon"}
@@ -23,7 +23,7 @@ const Main = () => {
               </a>
             </div>
             <div className={"home-data"}>
-              <h1 className={"home-title"} id="whiter">Amin Riyad</h1>
+              <h1 className={"home-title"} id="whiter">David Fox</h1>
               <h3 className={"home-subtitle"}>Software Engineer | CS Student</h3>
               <a href="#Contact" className={"button flex-button"}>
                 Contact me <Icon icon="uil:message" className={"icon-button"}/>

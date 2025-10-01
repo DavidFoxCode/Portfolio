@@ -7,7 +7,7 @@ return (
     <div className={"footer-bg"}>
         <div className={"footer-container container grid"}>
         <div>
-            <h1 className={"footer-title"}>Amin Riyad</h1>
+            <h1 className={"footer-title"}>David Fox</h1>
             <span className={"footer-subtitle"}>Software Engineer | CS Student</span>
         </div>
         <ul className={"footer-links"}>
@@ -38,7 +38,7 @@ return (
           </div>
         </div>
         <p className={"footer-copyright"}>
-          &#169; Amin Riyad {year}. All rights reserved.
+          &#169; David Fox {year}. All rights reserved.
         </p>
       </div>
     </footer>
