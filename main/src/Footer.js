@@ -28,7 +28,7 @@ return (
               <Icon icon="uil:linkedin-alt" color="white" />
             </a> */}
             <a
-              href="https://github.com/Aminriyad"
+              href="https://github.com/DavidFoxCode"
               rel="noreferrer"
               target="_blank"
               className={"footer-social"}
